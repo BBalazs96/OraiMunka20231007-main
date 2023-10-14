@@ -1,62 +1,95 @@
-body{
-    background-color: greenyellow;
+body {
+  background-color: greenyellow;
 }
 
-p{
-    color: black;
-
+p {
+  color: black;
 }
-#auto{
-    text-align: center;
-    color: white;
+#auto {
+  text-align: center;
+  color: white;
 }
 
-img  {
+img {
   float: left;
   height: 100px;
   width: auto;
 }
-table, td {
-    border: 1px black solid;
-    border-collapse: collapse;
-    background-color: whitesmoke;
-    font-size: xx-large;
-    
+table,
+td {
+  border: 1px black solid;
+  border-collapse: collapse;
+  background-color: whitesmoke;
+  font-size: xx-large;
 }
-#kepes{
-    font-size: xx-large;
-    background-image: url("vegyes feladatok/smiley2.png");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+#kepes {
+  font-size: xx-large;
+  background-image: url("vegyes feladatok/smiley2.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
-#szomr{
-    background-image: url("vegyes feladatok/smiley2.png");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+#szomr {
+  background-image: url("vegyes feladatok/smiley2.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
-table{
-    clear: both;
+table {
+  clear: both;
 }
-div{
-    padding-top: 50px;
-    border: 1px grey solid;
-    border-radius: 10;
-    margin: 20px;
+div {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border: 1px grey solid;
+  border-radius: 10;
+  margin: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
 }
 
-ul li{
-    list-style-image: url("vegyes feladatok/smiley2.png");
-    list-style-position: inside;
+ul li {
+  list-style-image: url("vegyes feladatok/smiley2.png");
+  list-style-position: inside;
 }
-ol li{
-    list-style-type: none;
+ol li {
+  list-style-type: none;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-h1{
-    text-align: left;
-    
+h1 {
+  text-align: left;
+
+}
+div p {
+  text-indent: 50px;
+  text-align: justify;
+}
+span{
+    text-transform: capitalize;
+}
+.bekezdes{
+    font-weight: bold;
+}
+.cimsor2{
+    text-decoration: underline;
+}
+h4{
+    font-style: italic;
+}
+#paris{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+#keret{
+    height: 300px;
+    width: 300px;
+    border: 0px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: greenyellow;
 }
