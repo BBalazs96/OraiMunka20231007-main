@@ -20,4 +20,19 @@ table, td {
     border: 1px black solid;
     border-collapse: collapse;
     background-color: whitesmoke;
+    font-size: xx-large;
+    
+}
+#kepes{
+    font-size: xx-large;
+    background-image: url("vegyes feladatok/smiley2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#szomr{
+    background-image: url("vegyes feladatok/smiley.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
