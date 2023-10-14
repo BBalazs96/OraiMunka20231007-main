@@ -1,0 +1,23 @@
+body{
+    background-color: greenyellow;
+}
+
+p{
+    color: black;
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+img  {
+  float: left;
+  height: 100px;
+  width: auto;
+}
+table, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+    background-color: whitesmoke;
+}
