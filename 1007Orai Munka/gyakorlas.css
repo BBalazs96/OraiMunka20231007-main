@@ -31,8 +31,16 @@ table, td {
     background-size: contain;
 }
 #szomr{
-    background-image: url("vegyes feladatok/smiley.png");
+    background-image: url("vegyes feladatok/smiley2.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
+table{
+    clear: both;
+}
+div{
+    padding-top: 100px;
+    border-radius: 10px;
+}
+
